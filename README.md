@@ -6,7 +6,7 @@ The purpose of this project is to experiment using Node.js to create an HTTP API
 
 ## Quick Overview
 
-This application uses Node.js to create HTTP GET and POST requests.
+This application uses Node.js to create HTTP GET and POST endpoints.
 
 ## Technical Overview
 
